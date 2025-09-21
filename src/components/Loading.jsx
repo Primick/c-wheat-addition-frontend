@@ -1,0 +1,1 @@
+import React from 'react';export default function Loading(){return (<div className='loading-screen'><div style={{textAlign:'center'}}><div style={{fontSize:56,fontWeight:800}}>CHESS</div><div style={{fontSize:18,opacity:0.9,marginTop:6}}>c-wheat addition</div><div style={{marginTop:16,opacity:0.7}}>Loading<span className='dots'>...</span></div></div></div>)}

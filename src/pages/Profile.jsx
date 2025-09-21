@@ -1,0 +1,1 @@
+import React from 'react';export default function Profile({account}){return (<div className='profile-page'><h2>Profile</h2><div className='panel'>Name: {account.name}</div><div className='panel'>Device ID: {account.fingerprint}</div></div>)}
